@@ -23,7 +23,7 @@
         }
     ],
     "vars": {
-        "AUTH_ENABLED": "true",
+        "AUTH_ENABLED": "false",
         "AUTH_USERNAME": "eq",
         "AUTH_PASSWORD": "6666eeee",
         "AUTH_SECRET": "$2y$10$9xF7sQ2k.Z8tD5vB1nM3cG6hJ8pL1mN4pR7sU0vW2xY5zA9bC3dEQfG"
