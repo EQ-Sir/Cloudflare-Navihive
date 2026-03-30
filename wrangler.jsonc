@@ -24,9 +24,9 @@
     ],
     "vars": {
         "AUTH_ENABLED": "true",
-        "AUTH_USERNAME": "admin",
-        "AUTH_PASSWORD": "$2a$12$ZSLUS9VrKsVf6yjgGUn2/ewLY9vqztqFpL99NExv6Kv3GjvyRnNEQ",
-        "AUTH_SECRET": "$2y$10$IMVl9NM.Smo7xbPVyi9HEOBhcLxOPKEq9RBIEoijS4YbKjeyFjJFm"
+        "AUTH_USERNAME": "eq",
+        "AUTH_PASSWORD": "6666eeee",
+        "AUTH_SECRET": "$2y$10$9xF7sQ2k.Z8tD5vB1nM3cG6hJ8pL1mN4pR7sU0vW2xY5zA9bC3dEQfG"
     }
 }
 
