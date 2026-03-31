@@ -1805,7 +1805,7 @@ function App() {
                 textDecoration: 'none',
               }}
             >
-              <GitHubIcon />
+              <img src="https://i.imgur.com/M4dahcd.jpeg" width="24" height="24" style="border-radius: 50%; object-fit: cover;" />
             </Paper>
           </Box>
         </Container>
