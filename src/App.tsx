@@ -1785,7 +1785,7 @@ function App() {
           >
             <Paper
               component='a'
-              href='https://https://github.com'
+              href='https:eqeq.me'
               target='_blank'
               rel='noopener noreferrer'
               elevation={2}
