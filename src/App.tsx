@@ -1785,7 +1785,7 @@ function App() {
           >
             <Paper
               component='a'
-              href='https://me.eqeq.me'
+              href='https://https://github.com'
               target='_blank'
               rel='noopener noreferrer'
               elevation={2}
@@ -1805,7 +1805,7 @@ function App() {
                 textDecoration: 'none',
               }}
             >
-              <img src="https://i.imgur.com/M4dahcd.jpeg" width="24" height="24" style="border-radius: 50%; object-fit: cover;" />
+              <GitHubIcon />
             </Paper>
           </Box>
         </Container>
