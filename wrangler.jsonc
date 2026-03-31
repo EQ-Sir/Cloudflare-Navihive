@@ -17,8 +17,8 @@
     "d1_databases": [
         {
             "binding": "DB",
-            "database_name": "navigation-db-local",
-            "database_id": "7f5c26d7-b281-4c6e-a211-75604a73533c"
+            "database_name": "navigation-db",
+            "database_id": "36641d2b-9033-4ed0-82e6-8d4bfc927717"
         }
     ],
     "vars": {
