@@ -61,7 +61,7 @@ import {
 import SortIcon from '@mui/icons-material/Sort';
 import SaveIcon from '@mui/icons-material/Save';
 import CancelIcon from '@mui/icons-material/Cancel';
-import AllInclusiveIcon from '@mui/icons-material/AllInclusive';
+import TelegramIcon from '@mui/icons-material/Telegram';
 import AddIcon from '@mui/icons-material/Add';
 import CloseIcon from '@mui/icons-material/Close';
 import SettingsIcon from '@mui/icons-material/Settings';
@@ -1785,7 +1785,7 @@ function App() {
           >
             <Paper
               component='a'
-              href='https:eqeq.me'
+              href='https://t.me/eqeq_eq'
               target='_blank'
               rel='noopener noreferrer'
               elevation={2}
@@ -1805,7 +1805,7 @@ function App() {
                 textDecoration: 'none',
               }}
             >
-              <AllInclusiveIcon />
+              <TelegramIcon />
             </Paper>
           </Box>
         </Container>
