@@ -17,8 +17,8 @@
     "d1_databases": [
         {
             "binding": "DB",
-            "database_name": "nav-eq-tg",
-            "database_id": "7cacf1b5-2fdd-4c26-87f1-7601b7abe9f7"
+            "database_name": "naveq",
+            "database_id": "92b8cc7c-f594-494d-87dc-45a4a3c2d0da"
         }
     ],
     "vars": {
