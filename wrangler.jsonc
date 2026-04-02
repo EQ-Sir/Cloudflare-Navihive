@@ -18,8 +18,8 @@
     "d1_databases": [
         {
             "binding": "DB",
-            "database_name": "navigation-db",
-            "database_id": "f9ff228d-61ff-4cb8-a820-62095c1a1dbc"
+            "database_name": "navts",
+            "database_id": "4ba1d117-04a0-4ddd-a7bc-1baceddcf30a"
         }
     ],
     "vars": {
