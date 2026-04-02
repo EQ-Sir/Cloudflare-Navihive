@@ -17,8 +17,8 @@
     "d1_databases": [
         {
             "binding": "DB",
-            "database_name": "naveq",
-            "database_id": "92b8cc7c-f594-494d-87dc-45a4a3c2d0da"
+            "database_name": "navts",
+            "database_id": "4ba1d117-04a0-4ddd-a7bc-1baceddcf30a"
         }
     ],
     "vars": {
